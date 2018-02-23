@@ -12,7 +12,7 @@ Meaning you can have this application on 2 PCs initiate Socket Connection for me
 3- Client B Deciphers the message and reveals the original Message
 
 # Contact Info
-You can contact me through   a.k.roshdy@gmai.com
+You can contact me through   a.k.roshdy@gmail.com
 If you guys need help don't hesitate to ask
 
 Best Regards
